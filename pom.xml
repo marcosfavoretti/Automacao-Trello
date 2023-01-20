@@ -1,0 +1,46 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>Teste_Maven</groupId>
+  <artifactId>Maven_API-project</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+	<dependencies>
+		<dependency>
+		<groupId>com.googlecode.json-simple</groupId>
+		<artifactId>json-simple</artifactId>
+		<version>1.1.1</version>
+		</dependency>
+		<!-- https://mvnrepository.com/artifact/com.mashape.unirest/unirest-java -->
+<!-- https://mvnrepository.com/artifact/javax.mail/mail -->
+<!-- https://mvnrepository.com/artifact/com.sun.mail/javax.mail -->
+<dependency>
+    <groupId>com.sun.mail</groupId>
+    <artifactId>javax.mail</artifactId>
+    <version>1.6.2</version>
+</dependency>
+
+<!-- https://mvnrepository.com/artifact/org.sevensource.commons/html-email-service -->
+<dependency>
+    <groupId>org.sevensource.commons</groupId>
+    <artifactId>html-email-service</artifactId>
+    <version>0.4.0</version>
+</dependency>
+
+<!-- https://mvnrepository.com/artifact/org.apache.commons/commons-email -->
+<dependency>
+    <groupId>org.apache.commons</groupId>
+    <artifactId>commons-email</artifactId>
+    <version>1.5</version>
+</dependency>
+<!-- https://mvnrepository.com/artifact/com.stripe/stripe-java -->
+<dependency>
+    <groupId>com.stripe</groupId>
+    <artifactId>stripe-java</artifactId>
+    <version>22.6.0-beta.1</version>
+</dependency>
+
+
+		<!-- https://mvnrepository.com/artifact/com.google.code.gson/gson -->
+
+
+	</dependencies>
+</project>
