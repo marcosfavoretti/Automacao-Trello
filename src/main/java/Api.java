@@ -21,7 +21,7 @@ public class Api {
 
 	public Api() {
 
-		this.autenticaçao = "&key=0f11d1be0b03e571d6c61226021e671b&token=ATTA88947b8a25cf11e4e1ce844d08acc80ab17e0d7b19f37357870a2216521096bf0E056C36";
+		this.autenticaçao = "";
 		this.urlbase = "https://api.trello.com/1/";
 
 	}
