@@ -15,8 +15,8 @@ public class Email {
 		boolean login = false;
 
 		this.host = "outlook.office365.com";
-		this.username = "trello.verificacao@outlook.com";
-		this.password = "ethos123";
+		this.username = "";
+		this.password = "";
 
 		this.prop = new Properties();
 
